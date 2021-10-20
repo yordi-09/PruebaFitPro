@@ -1,0 +1,86 @@
+19/10/2021 17:23:11	Este registro contiene información acerca de la operación de importación de esquema en el proyecto 'PruebaWebApiDB' del equipo 'CSD-27918' por el usuario 'YordiElizondoMontes'.
+19/10/2021 17:23:11	Se inició la importación del esquema de la base de datos.
+19/10/2021 17:23:32	Recopilando credenciales de la base de datos
+19/10/2021 17:23:32	Recopilando opciones de base de datos
+19/10/2021 17:23:32	Recopilando la opción de configuración de ámbito de la base de datos genérica
+19/10/2021 17:23:32	Recopilando usuarios
+19/10/2021 17:23:32	Recopilando roles
+19/10/2021 17:23:32	Recopilando roles de aplicación
+19/10/2021 17:23:32	Recopilando pertenencias a roles
+19/10/2021 17:23:32	Recopilando grupos de archivos
+19/10/2021 17:23:32	Recopilando catálogos de texto completo
+19/10/2021 17:23:32	Recopilando ensamblados
+19/10/2021 17:23:32	Recopilando certificados
+19/10/2021 17:23:32	Recopilando claves asimétricas
+19/10/2021 17:23:32	Recopilando claves simétricas
+19/10/2021 17:23:32	Recopilando claves simétricas cifradas
+19/10/2021 17:23:32	Recopilando esquemas
+19/10/2021 17:23:32	Recopilando colecciones de esquemas XML
+19/10/2021 17:23:32	Recopilando tipos de datos definidos por el usuario
+19/10/2021 17:23:32	Recopilando tipos definidos por el usuario
+19/10/2021 17:23:32	Recopilando tipos de tabla
+19/10/2021 17:23:32	Recopilando claves únicas para tipos de tabla
+19/10/2021 17:23:32	Recopilando claves principales para tipos de tabla
+19/10/2021 17:23:32	Recopilando índices para tipos de tablas
+19/10/2021 17:23:32	Recopilando restricciones CHECK para tipos de tabla
+19/10/2021 17:23:32	Recopilando restricciones DEFAULT para tipos de tabla
+19/10/2021 17:23:33	Recopilando funciones de partición
+19/10/2021 17:23:33	Recopilando esquemas de partición
+19/10/2021 17:23:33	Recopilando funciones
+19/10/2021 17:23:33	Recopilando funciones cifradas
+19/10/2021 17:23:33	Recopilando agregados
+19/10/2021 17:23:33	Recopilando procedimientos
+19/10/2021 17:23:33	Recopilando procedimientos cifrados
+19/10/2021 17:23:33	Recopilando tablas
+19/10/2021 17:23:33	Recopilando claves principales
+19/10/2021 17:23:33	Recopilando restricciones UNIQUE
+19/10/2021 17:23:33	Recopilando claves externas
+19/10/2021 17:23:33	Recopilando restricciones DEFAULT
+19/10/2021 17:23:33	Recopilando restricciones CHECK
+19/10/2021 17:23:33	Recopilando vistas
+19/10/2021 17:23:33	Recopilando vistas cifradas
+19/10/2021 17:23:33	Recopilando índices
+19/10/2021 17:23:33	Recopilando estadísticas
+19/10/2021 17:23:33	Recopilando listas de palabras irrelevantes de índices de texto completo
+19/10/2021 17:23:33	Recopilando listas de propiedades de búsqueda
+19/10/2021 17:23:33	Recopilando propiedades de búsqueda
+19/10/2021 17:23:33	Recopilando índices de texto completo
+19/10/2021 17:23:33	Recopilando índices de almacenamiento de columnas
+19/10/2021 17:23:33	Recopilando índices espaciales
+19/10/2021 17:23:33	Recopilando índices XML
+19/10/2021 17:23:33	Recopilando índices XML selectivos
+19/10/2021 17:23:33	Recopilando desencadenadores cifrados
+19/10/2021 17:23:33	Recopilando desencadenadores
+19/10/2021 17:23:33	Recopilando DDL triggers cifrados y de CLR
+19/10/2021 17:23:33	Recopilando DDL triggers
+19/10/2021 17:23:33	Creación de la restricción perimetral en curso
+19/10/2021 17:23:33	Recopilando sinónimos
+19/10/2021 17:23:33	Recopilando valores predeterminados
+19/10/2021 17:23:33	Recopilando enlaces UDDT de restricción de datos
+19/10/2021 17:23:33	Recopilando reglas
+19/10/2021 17:23:33	Recopilando enlaces UDDT de restricción de datos
+19/10/2021 17:23:33	Recopilando tipos de mensaje
+19/10/2021 17:23:33	Recopilando colas
+19/10/2021 17:23:33	Recopilando contratos
+19/10/2021 17:23:33	Recopilando servicios
+19/10/2021 17:23:33	Recopilando notificaciones de eventos
+19/10/2021 17:23:33	Recopilando enlaces de servicio remoto
+19/10/2021 17:23:33	Recopilando prioridades de Broker
+19/10/2021 17:23:33	Recopilando firmas
+19/10/2021 17:23:33	Recopilando opciones de compresión de datos
+19/10/2021 17:23:33	Recopilando tipos de secuencia
+19/10/2021 17:23:33	Recopilando directivas de seguridad
+19/10/2021 17:23:33	Recopilar claves de cifrado de columna
+19/10/2021 17:23:33	Recopilando claves maestras de columna
+19/10/2021 17:23:33	Recopilando orígenes de datos externos
+19/10/2021 17:23:33	Recopilando formatos de archivo externos
+19/10/2021 17:23:33	Recopilando tablas externas
+19/10/2021 17:23:33	Recopilando propiedades extendidas
+19/10/2021 17:23:34	Recopilando credenciales
+19/10/2021 17:23:34	Recopilando inicios de sesión
+19/10/2021 17:23:34	Recopilando auditorías de servidor
+19/10/2021 17:23:36	Buscando elementos duplicados en el proyecto
+19/10/2021 17:23:36	Ha finalizado el procesamiento de los elementos duplicados
+19/10/2021 17:23:37	Finalizó la importación de la base de datos.
+19/10/2021 17:23:37	Se guardó un resumen de la importación en la siguiente ubicación: C:\repos\WebApi\PruebaWebApiDB\Registros de importación de esquemas\PruebaWebApiDB_20211019112311.log
+19/10/2021 17:23:37	Haga clic en Finalizar para continuar...
